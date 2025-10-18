@@ -6,8 +6,9 @@ To download the software Raspiscope [click here](https://github.com/antlampas/ra
 Images:
 
 ![Schema del progetto](./images/spettro001.jpg)
-![Schema del progetto](./images/spettro989.jpg)
-![Schema del progetto](./images/spettro093.jpg)
-![Schema del progetto](./images/spettro661.jpg)
-![Schema del progetto](./images/spettro041.jpg)
-![Schema del progetto](./images/spettro990.jpg)
+![Schema del progetto](./images/spettro002.jpg)
+![Schema del progetto](./images/spettro003.jpg)
+![Schema del progetto](./images/spettro004.jpg)
+![Schema del progetto](./images/spettro005.jpg)
+![Schema del progetto](./images/spettro006.jpg)
+![Schema del progetto](./images/spettro007.jpg)
