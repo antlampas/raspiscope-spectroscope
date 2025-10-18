@@ -11,4 +11,3 @@ Images:
 ![Schema del progetto 4](./images/spettro004.jpg)
 ![Schema del progetto 5](./images/spettro005.jpg)
 ![Schema del progetto 6](./images/spettro006.jpg)
-![Schema del progetto 7](./images/spettro007.jpg)
