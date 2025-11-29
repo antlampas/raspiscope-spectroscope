@@ -35,8 +35,8 @@ The project is released as free software under the Creative Commons Attribution-
 
 ### Construction Schemes
 
-![Schema Elettrico](./Schema%20Generale.png)
-![Schema Visuale](./Schema%20Visuale.png)
+![Schema Elettrico](./images/Schema%20Generale.png)
+![Schema Visuale](./images/Schema%20Visuale.png)
 
 ### Images:
 
